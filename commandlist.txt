@@ -1,0 +1,7 @@
+new dsa
+open dsa
+open dsa
+list
+delete dsa
+list
+close
