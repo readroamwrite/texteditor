@@ -1,4 +1,4 @@
-# Data-structures-package
+# Text-Edit
 This is an interactive text editor that would enable a user to use all basic functionality to edit their code and text, in addition to certain advanced features such as word finding and spelling error checking. 
 
 Some key features that have been implemented are:
